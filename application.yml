@@ -10,8 +10,6 @@ spring:
     name: config-server-dev
 
 ---
-
-
 spring:
   profiles: test #测试环境
   application:
